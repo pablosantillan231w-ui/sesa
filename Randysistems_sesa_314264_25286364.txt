@@ -1,4 +1,0 @@
-Usuario: 25286364
-Clave: 25286364
-Account ID: 314264
-Device ID: 1800831
