@@ -1,0 +1,25 @@
+# CREDENCIALES VÁLIDAS DE SENSA
+# Total: 7
+# Fecha: 2026-07-03 12:38:19
+
+Usuario: 25286364
+Clave: 25286364
+
+Usuario: 23950778
+Clave: 5878665878
+
+Usuario: 42413346
+Clave: 42413346
+
+Usuario: 99906339
+Clave: 99906339
+
+Usuario: 56203490
+Clave: 2474460287
+
+Usuario: 25286364
+Clave: 25286364
+
+Usuario: 23538114
+Clave: 23538114
+
