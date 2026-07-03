@@ -1,0 +1,4 @@
+Usuario: 24352356
+Clave: 24352356
+Dispo max
+Device ID: 1800831
