@@ -1,4 +1,0 @@
-Usuario: 12305612
-Clave: 12305612
-Dispo max
-Device ID: 1800831
