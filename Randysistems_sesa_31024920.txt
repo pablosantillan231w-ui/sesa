@@ -1,0 +1,6 @@
+Usuario: 31024920
+Clave: 31024920
+Perfil sin PIN: se
+Perfiles con PIN: 2
+  - 31024920 (PIN: 31024920)
+  - pieza (PIN: 2807)
