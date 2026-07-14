@@ -1,0 +1,6 @@
+Usuario: 24238335
+Clave: 24238335
+Perfil sin PIN: Ale
+Perfiles con PIN: 2
+  - no hacer usuarios (PIN: 24238335)
+  - tori (PIN: 160616)
