@@ -1,3 +1,0 @@
-Usuario: 25309455
-Clave: 25309455
-Perfil sin PIN: 0123
