@@ -1,6 +1,0 @@
-Usuario: 16460303
-Clave: 5157442
-Perfil sin PIN: le
-Perfiles con PIN: 2
-  - 16460303 (PIN: 1234)
-  - leee (PIN: 1234)
