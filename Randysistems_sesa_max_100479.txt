@@ -1,0 +1,4 @@
+Usuario: 100479
+Clave: 54751
+Dispo max
+Device ID: 1980957
